@@ -33,13 +33,14 @@ Many people get scammed by this Web page phishing technique. Detecting them can 
 - xgboost
   - xgboost.XGBClassifier
 
-## MODEL COMPARSION 
+## MODEL COMPARSION:
+
 ![](https://github.com/kadatatlukishore/Web-Page-Phishing-Detection/blob/main/Roc-curve.jpg)
 
-### CONCLUSION
+### CONCLUSION:
 Seeing the above ROC Curve we can observe that RandomForestClassifier and XGBClassifier are best models but it may be due to overfitting also. So, we can conclude that **DecisionTreeClassifier** is the best model for our usecase.
 
 
-### AUTHOR
+### AUTHOR:
 
 [**K Kishore**](https://www.linkedin.com/in/kadatatlukishore/)
