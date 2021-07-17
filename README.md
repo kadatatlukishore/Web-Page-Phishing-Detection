@@ -1,7 +1,7 @@
 # Web-Page-Phishing-Detection
 **Wiki Definition** : Phishing is a type of social engineering where an attacker sends a fraudulent ("spoofed") message designed to trick a human victim into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware. Phishing attacks have become increasingly sophisticated and often transparently mirror the site being targeted, allowing the attacker to observe everything while the victim is navigating the site, and transverse any additional security boundaries with the victim.
 
-![](https://github.com/kadatatlukishore/ML-ProjectKart/blob/web-page-phishing-detection/Web%20Page%20Phishing%20Detection/Images/Phishing.jpg)
+![](https://github.com/kadatatlukishore/Web-Page-Phishing-Detection/blob/main/Phishing.jpg)
 
 ### Unique phishing reports by year
 |Year|	Campaigns|
@@ -65,7 +65,7 @@ Many people get scammed by this Web page phishing technique. Detecting them can 
 
 
 #### MODEL COMPARSION 
-![](https://github.com/kadatatlukishore/ML-ProjectKart/blob/web-page-phishing-detection/Web%20Page%20Phishing%20Detection/Images/Roc-curve.jpg)
+![](https://github.com/kadatatlukishore/Web-Page-Phishing-Detection/blob/main/Roc-curve.jpg)
 
 
 Seeing the above ROC Curve we can observe that RandomForestClassifier and XGBClassifier are best models but it may be due to overfitting also. So, we can conclude that **DecisionTreeClassifier** is the best model for our usecase.
